@@ -1,7 +1,7 @@
 # TECH TEST
 
 
-The play_score.py script selects the combination of measures with the highest coverage score (included in the given budget) and plays it against the server. It prints the obtained score or the server response in case of error.
+The play_score.py script selects the combination of measures with the highest coverage score (included in the given budget) and plays it against the Tenacy-Tech-Test server. It prints the obtained score or the server response in case of error.
 
 ## Tech stack
 
