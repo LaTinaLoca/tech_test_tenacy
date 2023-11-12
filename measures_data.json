@@ -1,0 +1,391 @@
+[
+{
+    "name": "Compliance assement",
+    "identifier": "MEAS-7",
+    "cost": 30,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 0,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 16,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 0,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 16,
+        "severity": 1
+    }]
+},
+{
+    "name": "Continuity / Disaster recovery plan",
+    "identifier": "MEAS-49",
+    "cost": 32,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 22,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 0,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 0,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 0,
+        "severity": 1
+    }]
+},
+{
+    "name": "Definition of security objectives",
+    "identifier": "MEAS-125",
+    "cost": 21,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 0,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 0,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 0,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 0,
+        "severity": 1
+    }]
+},
+{
+    "name": "Denial of Service (DoS, DDoS) protection",
+    "identifier": "MEAS-34",
+    "cost": 18,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 0,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 0,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 62,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 0,
+        "severity": 1
+    }]
+},
+{
+    "name": "External vulnerability scans",
+    "identifier": "MEAS-105",
+    "cost": 53,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 0,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 34,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 38,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 60,
+        "severity": 1
+    }]
+},
+{
+    "name": "Mailbox protection",
+    "identifier": "MEAS-3",
+    "cost": 25,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 0,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 0,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 0,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 0,
+        "severity": 1
+    }]
+},
+{
+    "name": "Malware protection for workstations",
+    "identifier": "MEAS-1",
+    "cost": 15,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 23,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 0,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 0,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 0,
+        "severity": 1
+    }]
+},
+{
+    "name": "Management of security crisis",
+    "identifier": "MEAS-25",
+    "cost": 25,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 28,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 21,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 18,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 31,
+        "severity": 1
+    }]
+},
+{
+    "name": "Management of security incidents",
+    "identifier": "MEAS-28",
+    "cost": 42,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 52,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 62,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 24,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 14,
+        "severity": 1
+    }]
+},
+{
+    "name": "Protect communciation channels",
+    "identifier": "MEAS-51",
+    "cost": 45,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 0,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 0,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 0,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 0,
+        "severity": 1
+    }]
+},
+{
+    "name": "Secure services exposed on the Internet",
+    "identifier": "MEAS-19",
+    "cost": 29,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 0,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 37,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 0,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 56,
+        "severity": 1
+    }]
+},
+{
+    "name": "Security Operation Center (SOC)",
+    "identifier": "MEAS-32",
+    "cost": 40,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 24,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 14,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 33,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 55,
+        "severity": 1
+    }]
+},
+{
+    "name": "Security dashboards",
+    "identifier": "MEAS-8",
+    "cost": 1,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 0,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 0,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 0,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 0,
+        "severity": 1
+    }]
+},
+{
+    "name": "Strong authentication",
+    "identifier": "MEAS-57",
+    "cost": 22,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 31,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 0,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 0,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 0,
+        "severity": 1
+    }]
+},
+{
+    "name": "Web application vulnerability scans",
+    "identifier": "MEAS-113",
+    "cost": 38,
+    "riskCoverage": [
+    {
+        "risk": "RISK-1",
+        "coverage": 0,
+        "severity": 4
+    },
+    {
+        "risk": "RISK-2",
+        "coverage": 32,
+        "severity": 3
+    },
+    {
+        "risk": "RISK-3",
+        "coverage": 0,
+        "severity": 2
+    },
+    {
+        "risk": "RISK-4",
+        "coverage": 42,
+        "severity": 1
+    }]
+}]
